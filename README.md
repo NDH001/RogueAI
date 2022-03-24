@@ -1,4 +1,1 @@
-# Highland
-testing
-tseting123
-test test test
+This is an independent indie game development project
